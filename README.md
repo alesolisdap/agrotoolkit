@@ -1,5 +1,5 @@
-# agrotoolkit
-🌾 Agrotoolkit AI
+# 🌾 Agrotoolkit AI
+
 Agrotoolkit AI es una recopilación estratégica y curada de herramientas, guías, agentes inteligentes y recursos educativos orientados a facilitar la adopción de inteligencia artificial en el sector agrícola.
 
 El objetivo de este toolkit es democratizar el acceso a tecnologías emergentes —como GeoAI, Machine Learning, Deep Learning y AI Generativo— apoyando a agricultores, técnicos, investigadores y empresas a lo largo de toda la cadena de valor agrícola, desde la producción hasta la comercialización sostenible.
